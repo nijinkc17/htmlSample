@@ -10,12 +10,9 @@
 <body>
     <form id="form1" runat="server">
         <div class="div1">
-            <p>hai niijin how are you</p>
-            <h1>nijin</h1>
-            <h2>nijin</h2>
-            <h3>nijin</h3>
-            <h4>nijin</h4>
-            <h5>nijin</h5>
+            <p>hai broo how are you</p>
+            <h2>hello</h2>
+            
 
             <ul>
                 <li>red</li>
